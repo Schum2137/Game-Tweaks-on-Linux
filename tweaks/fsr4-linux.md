@@ -6,7 +6,7 @@ This has been tested and confirmed working in **Grand Theft Auto V** on an **RX 
 ## ✅ Fix Steps
 
 1. Ensure you're using a game that supports **FSR 3.1**
-2. In Steam, set the Proton version to **proton-cachyos**
+2. In Steam, set the Proton version to **proton-cachyos** or **proton-ge**
 3. Add the following to the game’s **launch options**:
 **PROTON_FSR4_UPGRADE=1 %command%**
 
