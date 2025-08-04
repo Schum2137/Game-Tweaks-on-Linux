@@ -9,4 +9,7 @@ Tweaks that I've encountered or found myself, in games running native on Linux, 
 ## 🔧 Game Tweaks
 
 - [Upgrade to FSR 4](tweaks/fsr4-linux.md)
+
+## 🩹 Game Fixes
+
 - [Stellar Blade](tweaks/stellar-blade.md)
