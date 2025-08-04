@@ -6,7 +6,7 @@ Tweaks that I've encountered or found myself, in games running native on Linux, 
 
 - All this is being tested under CachyOS with the RX 9070 XT.
 
-## 🔧 Game Fixes
+## 🔧 Game Tweaks
 
 - [Upgrade to FSR 4](tweaks/fsr4-linux.md)
 - [Stellar Blade](tweaks/stellar-blade.md)
