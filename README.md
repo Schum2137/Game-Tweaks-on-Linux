@@ -8,5 +8,4 @@ Fixes issues I've encountered in games running through Wine/Proton.
 
 ## 📌 Notes
 
-- These fixes are specific to **Linux + Proton/Wine setups**
-- Tested on Proton-CachyOS and Mesa-git drivers
+These fixes are specific to **Linux + Proton/Wine setups**
