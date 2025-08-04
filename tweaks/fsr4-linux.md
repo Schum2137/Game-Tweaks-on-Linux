@@ -1,3 +1,5 @@
+🔙 [Back to Main Page](../README.md)
+
 # FSR 4 Upgrade for Games Using FSR 3.1
 
 You can force games with FSR 3.1 to use FSR 4 by using `proton-cachyos` or `proton-ge` and `Mesa 25.2+`.  
