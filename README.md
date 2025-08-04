@@ -2,6 +2,10 @@
 
 Tweaks that I've encountered or found myself, in games running native on Linux, or through Wine/Proton.
 
+## 📌 Notes
+
+- All this is being tested under CachyOS with an RX 9070 XT.
+
 ## 🔧 Game Fixes
 
 - [Upgrade to FSR 4](tweaks/fsr4-linux.md)
