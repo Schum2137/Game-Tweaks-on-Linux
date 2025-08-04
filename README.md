@@ -4,7 +4,7 @@ Tweaks that I've encountered or found myself, in games running native on Linux, 
 
 ## 📌 Notes
 
-- All this is being tested under CachyOS with an RX 9070 XT.
+- All this is being tested under CachyOS with the RX 9070 XT.
 
 ## 🔧 Game Fixes
 
