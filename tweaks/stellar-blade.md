@@ -1,3 +1,5 @@
+🔙 [Go Back to Main Page](../README.md)
+
 # Stellar Blade — FSR Frame Generation Fix
 
 Update 1.3.0 broke FSR Frame Gen due to missing hardware scheduling in Wine/Proton.
