@@ -63,3 +63,4 @@ Works even in titles without native FSR 3.1, as long as OptiScaler can hook into
 ## 📌 Notes
 
 - This method works regardless of whether the game has native FSR 3.1 or not
+- ⚠️ OptiScaler is recommended to be used for single player games, as it can trigger an anti-cheat. Use it at your own risk
