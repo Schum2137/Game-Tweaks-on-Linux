@@ -1,4 +1,4 @@
-🔙 [Go Back to Main Page](../README.md)
+🔙 [Go Back to Main Page](https://github.com/Schum2137/Game-Tweaks-on-Linux/tree/main)
 
 # Stellar Blade — FSR Frame Generation Fix
 
