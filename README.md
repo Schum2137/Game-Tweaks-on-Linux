@@ -4,9 +4,5 @@ Tweaks that I've encountered or found myself, in games running native on Linux, 
 
 ## 🔧 Game Fixes
 
-- [Upgrade to FSR 4](fixes/fsr4-linux.md)
-- [Stellar Blade](fixes/stellar-blade.md)
-
-## 📌 Notes
-
-These fixes are specific to **Linux + Proton/Wine setups**
+- [Upgrade to FSR 4](tweaks/fsr4-linux.md)
+- [Stellar Blade](tweaks/stellar-blade.md)
