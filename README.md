@@ -1,6 +1,6 @@
-# 🛠️ Fixes for games running under Proton
+# 🛠️ Tweaks for games running on Linux
 
-Fixes issues I've encountered in games running through Wine/Proton.
+Tweaks that I've encountered or found myself, in games running native on Linux, or through Wine/Proton.
 
 ## 🔧 Game Fixes
 
