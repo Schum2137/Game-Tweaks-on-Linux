@@ -1,4 +1,4 @@
-🔙 [Back to Main Page](../README.md)
+🔙 [Go Back to Main Page](../README.md)
 
 # FSR 4 Upgrade for Games Using FSR 3.1
 
