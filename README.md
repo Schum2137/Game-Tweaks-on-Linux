@@ -4,6 +4,7 @@ Tweaks that I've encountered or found myself, in games running native on Linux, 
 
 ## 📌 Notes
 
+- Although I created this repository for myself, you might still find it helpful.
 - All this is being tested under CachyOS with the RX 9070 XT.
 
 ## 🔧 Game Tweaks
