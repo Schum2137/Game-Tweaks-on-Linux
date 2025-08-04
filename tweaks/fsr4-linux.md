@@ -12,13 +12,8 @@ This has been tested and confirmed working in **Grand Theft Auto V** on an **RX 
 
 FSR 3.1 will now be replaced with **FSR 4** during runtime.
 
-## 🧪 GPU Compatibility
+## ⚠️ **RDNA3 (e.g., RX 7000 series)**
 
-- ✅ **RDNA4 (e.g., RX 9000 series)**  
-  Just use:
-**PROTON_FSR4_UPGRADE=1 %command%**
-
-- ⚠️ **RDNA3 (e.g., RX 7000 series)**  
 You can try:
 DXIL_SPIRV_CONFIG=wmma_rdna3_workaround PROTON_FSR4_UPGRADE=1 %command%
 
