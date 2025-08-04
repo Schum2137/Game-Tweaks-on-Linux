@@ -4,6 +4,7 @@ Fixes issues I've encountered in games running through Wine/Proton.
 
 ## 🔧 Game Fixes
 
+- [Upgrade FSR 3.1 to FSR 4](fixes/fsr4-linux.md)
 - [Stellar Blade](fixes/stellar-blade.md)
 
 ## 📌 Notes
