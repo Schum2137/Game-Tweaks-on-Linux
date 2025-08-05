@@ -54,9 +54,11 @@ Works even in titles without native FSR 3.1, as long as OptiScaler can hook into
 
 4. Launch the game.
 
-5. Press `Insert` in-game to open the OptiScaler overlay.
+5. Select any form of available upscaling.
 
-6. Select **FSR 4** from the scaling options.
+6. Press `Insert` in-game to open the OptiScaler overlay.
+
+7. Select **FSR 4** from the scaling options.
 
 ## 📌 Notes
 
