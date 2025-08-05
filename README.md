@@ -14,4 +14,4 @@ Tweaks that I've encountered or found myself, in games running native on Linux, 
 
 ## 🩹 Game Fixes
 
-- [Stellar Blade](tweaks/stellar-blade.md)
+- [Stellar Blade FSR Frame Generation](tweaks/stellar-blade.md)
