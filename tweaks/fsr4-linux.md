@@ -23,6 +23,7 @@ DXIL_SPIRV_CONFIG=wmma_rdna3_workaround PROTON_FSR4_UPGRADE=1 %command%
 
 - Requires `proton-cachyos` or `proton-ge` and `Mesa 25.2` or newer
 - ⚠️ Setting default compatiblity tool in Steam's settings to `proton-cachyos` didn't activate FSR4 in my case, until I went to the game's properties and manually set it to `proton-cachyos` (or `proton-ge`)
+- ⚠️ Some games (e.g., Stellar Blade) will successfully upgrade FSR 3.1 to FSR 4 but still show as FSR 3/3.1 in the graphics menu (this is a game problem, as the same issue occurs when running the game on the Windows OS)
 - Game must already use FSR 3.1 for the upgrade to apply
 - Not guaranteed to work on all RDNA3 GPUs — test per title
 
